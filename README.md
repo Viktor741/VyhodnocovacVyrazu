@@ -1,2 +1,0 @@
-# VyhodnocovacVyrazu
-Created with CodeSandbox
